@@ -1,0 +1,9 @@
+title,uri,tags
+"ECEN 4652/5002 - Communications Lab","http://ecee.colorado.edu/~mathys/ecen4652/","DSP"
+"Digital Signal Processing in Radio Astronomy","http://wvurail.org/dspira/","DSP"
+"SEEING CIRCLES, SINES, AND SIGNALS","https://jackschaedler.github.io/circles-sines-signals/","DSP"
+"Introduction to Speech Processing","https://wiki.aalto.fi/display/ITSP/Introduction+to+Speech+Processing","DSP"
+"Nothing but NumPy: Understanding & Creating Neural Networks with Computational Graphs from Scratch","https://www.kdnuggets.com/2019/08/numpy-neural-networks-computational-graphs.html","Machine Learning"
+"CS224n: Natural Language Processing with Deep Learning","http://web.stanford.edu/class/cs224n/","Machine Learning"
+"You should not run your mail server because mail is hard","https://poolp.org/posts/2019-08-30/you-should-not-run-your-mail-server-because-mail-is-hard/","Sysadmin"
+"A tutorial on Differential Evolution with Python","https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/","Python"
